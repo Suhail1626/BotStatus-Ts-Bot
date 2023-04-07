@@ -7,7 +7,7 @@
     "status",
     "bot" 
   ],
-  "repository": "https://github.com/Ts-Bots/BOTSTATUS-TS-BOT",
+  "repository": "https://github.com/Suhail1626/BotStatus-Ts-Bot",
   "logo": "https://telegra.ph/file/eee1877ba8a1e7077b2a8.jpg",
   "env": {
     "WEBHOOK": {
@@ -50,7 +50,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
